@@ -1,0 +1,4 @@
+datas/*.txt
+!datas/in.txt
+.vscode/
+*.out
